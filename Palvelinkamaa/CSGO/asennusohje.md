@@ -1,5 +1,6 @@
 # Ohjeet CS:GO serverin asentamiseen - Jami Juva 2022
 
+## Testatut käyttöjärjestelmät
 ``OS: Ubuntu-Server 22.04 LTS x86_64``
 
 ## Tarvittavat asiat:
