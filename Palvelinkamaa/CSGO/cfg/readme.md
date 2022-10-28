@@ -1,2 +1,2 @@
-## Uusimmat versiot config (ja start.sh) tiedostoista löytyvät osoitteesta
-https://jaaju.cf/files/csgo/cfg
+## Uusimmat versiot config (ja start.sh) tiedostoista
+  https://jaaju.cf/files/csgo/cfg
