@@ -1,2 +1,2 @@
 ## Uusimmat versiot config (ja start.sh) tiedostoista
-  https://jaaju.cf/files/csgo/cfg
+  https://jamppa.net/files/csgo/cfg
